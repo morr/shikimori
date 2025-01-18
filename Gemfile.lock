@@ -719,7 +719,7 @@ GEM
     retryable (3.0.5)
     reverse_markdown (2.1.1)
       nokogiri
-    rexml (3.3.7)
+    rexml (3.3.9)
     rouge (3.30.0)
     rspec (3.13.0)
       rspec-core (~> 3.13.0)
